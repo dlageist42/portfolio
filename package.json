@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "testastos"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dlageist42/portfolio.git"
+  },
+  "author": "David Lageiste",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlageist42/portfolio/issues"
+  },
+  "homepage": "https://github.com/dlageist42/portfolio#readme"
+}
